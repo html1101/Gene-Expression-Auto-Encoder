@@ -1,0 +1,15 @@
+{
+  "name": "gene-expression-ae",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsx autoEncoder.ts"
+  },
+  "keywords": [
+    "autoencoder",
+    "typescript"
+  ],
+  "author": "Sarah",
+  "license": "ISC",
+  "description": ""
+}
